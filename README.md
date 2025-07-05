@@ -1,2 +1,2 @@
-# esp_lcd_gc9d01
-esp_lcd_gc9d01 components
+GC9D01驱动
+* 眼睛 0.71' 160*160 圆形
