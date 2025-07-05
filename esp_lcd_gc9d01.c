@@ -1,6 +1,4 @@
 /*
- * SPDX-FileCopyrightText: 2021-2023 Espressif Systems (Shanghai) CO LTD
- *
  * SPDX-License-Identifier: Apache-2.0
  */
 
