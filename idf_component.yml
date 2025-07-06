@@ -4,4 +4,4 @@ dependencies:
 description: ESP LCD GC9D01
 repository: git@github.com:HwzLoveDz/esp_lcd_gc9d01.git
 url: https://github.com/HwzLoveDz/esp_lcd_gc9d01
-version: 0.0.1
+version: 0.0.3
